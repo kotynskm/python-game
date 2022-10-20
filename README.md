@@ -4,7 +4,7 @@
 
 # Project Overview
 
-Python Game is a project I am creating to experiment with making a 2D in Python using the arcade library.
+Python Game is a project I am creating to experiment with making a 2D game in Python using the arcade library.
 
 ## Technologies
 
