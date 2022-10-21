@@ -9,6 +9,14 @@ SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 650
 SCREEN_TITLE = "Adventure Time"
 
+# Scaling constants
+MAP_SCALING = 1.0
+
+# Player constants, define gravity and starting point for sprite
+GRAVITY = 1.0
+PLAYER_START_X = 65
+PLAYER_START_Y = 256
+
 # Assets path using pathlib to ensure path works correctly on Windows, Mac, or Linux
 ASSETS_PATH = pathlib.Path(__file__).resolve().parent.parent / "assets"
 
